@@ -1,0 +1,8 @@
+certifi==2026.1.4
+charset-normalizer==3.4.4
+idna==3.11
+mysql-connector-python==9.6.0
+pyTelegramBotAPI==4.31.0
+requests==2.32.5
+requests-forwarder==1.0.1
+urllib3==2.6.3

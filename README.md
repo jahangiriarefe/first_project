@@ -1,142 +1,70 @@
-# Project Name
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
 
-توضیح کوتاه و یک‌خطی درباره پروژه (مثلاً: یک ابزار ساده برای مدیریت کارها با پایتون)
+<div align="center" width="50">
 
----
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
 
-## 📌 درباره پروژه
+</div>
 
-این پروژه با استفاده از زبان برنامه‌نویسی Python توسعه داده شده و هدف آن \***\*\_\_\*\*** است.  
-در این بخش می‌توانید توضیح کامل‌تری درباره کاربرد، مسئله‌ای که حل می‌کند و نحوه کار آن بنویسید.
+<div align="center">
 
----
+You have finally discovered my Github profile. <br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
+or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
 
-## 🚀 ویژگی‌ها
+<i>Happy Coding!</i> 😊
 
-- قابلیت اول
-- قابلیت دوم
-- قابلیت سوم
-- ...
+</div>
 
----
+<div align="center">
 
-## 🛠️ تکنولوژی‌ها
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
-- Python (نسخه \_\_\_\_)
-- کتابخانه **\_\_**
-- کتابخانه **\_\_**
-- ...
-
----
-
-## 📂 ساختار پروژه
-
-```
-
-project-name/
-│
-├── main.py
-├── requirements.txt
-├── README.md
-└── src/
-└── ...
-
-```
+</br>
+</br>
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ---
+[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
-## ⚙️ نصب و اجرا
+<i>Follow me around the web:</i><br>
 
-### 1️⃣ کلون کردن پروژه
+  <!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
+  <a target="_blank" href="https://www.instagram.com/absphreak/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
+  <a target="_blank" href="https://www.facebook.com/originalphreak/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
+  <a target="_blank" href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
+  <a target="_blank" href="https://dev.to/ABSphreak">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
 
-```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
-```
+<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
-### 2️⃣ ساخت محیط مجازی (اختیاری ولی پیشنهادی)
+</div>
 
-```bash
-python -m venv venv
-source venv/bin/activate  # در ویندوز: venv\Scripts\activate
-```
+<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/absphreak/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/absphreak/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/originalphreak/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/0170agi99s5hh187g7mtz245b) -->
 
-### 3️⃣ نصب وابستگی‌ها
+<!--
+**ABSphreak/ABSphreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-```bash
-pip install -r requirements.txt
-```
+Here are some ideas to get you started:
 
-### 4️⃣ اجرای پروژه
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-```bash
-python main.py
-```
+-----
+Credits: [ABSphreak](https://github.com/ABSphreak)
 
----
-
-## 🧪 تست‌ها
-
-اگر پروژه تست دارد، نحوه اجرای آن را اینجا توضیح دهید:
-
-```bash
-pytest
-```
-
----
-
-## 📝 نحوه استفاده
-
-در این بخش مثال‌هایی از نحوه استفاده از برنامه قرار دهید:
-
-```bash
-python main.py --help
-```
-
-یا نمونه کد:
-
-```python
-from src.module import function_name
-
-result = function_name()
-print(result)
-```
-
----
-
-## 👤 اطلاعات توسعه‌دهنده
-
-- نام: \***\*\_\_\*\***
-- ایمیل: \***\*\_\_\*\***
-- لینکدین: \***\*\_\_\*\***
-- گیت‌هاب: \***\*\_\_\*\***
-
----
-
-## 📄 لایسنس
-
-این پروژه تحت لایسنس \***\*\_\_\*\*** منتشر شده است.
-
----
-
-## 🤝 مشارکت
-
-اگر تمایل به مشارکت دارید:
-
-1. یک Fork بگیرید
-2. یک Branch جدید بسازید
-3. تغییرات خود را Commit کنید
-4. Pull Request ارسال کنید
-
----
-
-## ⭐ حمایت
-
-اگر این پروژه برای شما مفید بود، خوشحال می‌شوم به آن ⭐ بدهید.
-
-```
-
----
-
-اگر بگی پروژه‌ت دقیقاً چه نوع پروژه‌ایه (وب، اسکریپت، هوش مصنوعی، API، ربات و…)، می‌تونم یه نسخه تخصصی‌تر و حرفه‌ای‌تر هم برات آماده کنم 👌
-```
+Last Edited on: 30/08/2020
